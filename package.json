@@ -1,0 +1,13 @@
+{
+	"name": "cengage_scraper",
+	"version": "0.1.0",
+	"license": "MIT",
+	"type": "module",
+	"scripts": {
+		"start": "node --env-file=.env src/index.js"
+	},
+	"dependencies": {
+		"pdf-lib": "^1.17.1",
+		"puppeteer": "^21.7.0"
+	}
+}

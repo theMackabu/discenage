@@ -1,0 +1,10 @@
+# project
+book.json
+cookie.json
+content
+
+# env
+.env
+
+# node
+node_modules
