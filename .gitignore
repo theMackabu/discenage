@@ -2,6 +2,7 @@
 book.json
 cookie.json
 content
+textbook.pdf
 
 # env
 .env
